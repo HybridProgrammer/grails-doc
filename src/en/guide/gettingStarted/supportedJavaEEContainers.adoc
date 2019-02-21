@@ -1,10 +1,10 @@
 Grails runs on any container that supports Servlet 3.0 and above and is known to work on the following specific container products:
 
-* Tomcat 7
-* GlassFish 3 or above
+* Tomcat 9
+* GlassFish 5.0 or above
 * Resin 4 or above
 * JBoss 6 or above
-* Jetty 8 or above
+* Jetty 9.4 or above
 * Oracle Weblogic 12c or above
 * IBM WebSphere 8.0 or above
 
